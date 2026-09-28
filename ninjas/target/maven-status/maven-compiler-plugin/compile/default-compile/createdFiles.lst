@@ -1,0 +1,4 @@
+br\com\fatec\ninjas\controller\ClaController.class
+br\com\fatec\ninjas\service\ClaService.class
+br\com\fatec\ninjas\model\Cla.class
+br\com\fatec\ninjas\repository\ClaRepository.class
